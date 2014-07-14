@@ -1,0 +1,102 @@
+/* @override 
+	http://localhost/~john/contented-canines/css/main.css */
+
+#header {
+	height: 282px;
+	background: url(../images/heading.png) no-repeat #fcfcfc;
+}
+
+#walk-img {
+	background: url(../images/walk.jpg) no-repeat;
+	height: 200px;
+}
+
+#wrapper {
+	background-color: #fcfcfc;
+    margin: auto;
+    width: 970px;
+}
+
+#navigation {
+	width: 970px;
+	margin-top: -55px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top: 1px solid #c2c2c2;
+	padding-top: 17px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	border-style: solid;
+	background-color: #efefef;
+	padding-bottom: 1px;
+}
+
+#navigation ul {
+	list-style: none;
+	text-align: center;
+	margin-bottom: 13px;
+}
+
+#navigation ul li {
+	display: inline;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	font-size: 20px;
+	border-right-style: solid;
+	border-right-width: 1px;
+}
+
+
+#navigation ul li a {
+	text-decoration: none;
+}
+
+#navigation ul li:last-child {
+	border-right-style: none;
+}
+
+#content {
+    width: 580px;
+	margin-left: 40px;
+	font-size: 16px;
+	line-height: 1.5em;
+	background-color: #fcfcfc;
+	padding-bottom: 50px;
+	margin-top: 20px;
+
+}
+
+#footer {
+	width: 970px;
+	border-top: 1px solid #c2c2c2;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 12px;
+}
+
+h2 {
+	font-size: 25px !important;
+	padding-bottom: 10px !important;
+}
+
+img.dog1 {
+	float: right;
+	width: 218px;
+	margin-right: -280px;
+	margin-top: 200px;
+}
+
+img.dog2 {
+	float: right;
+	width: 218px;
+	margin-right: -280px;
+	margin-top: -20px;
+}
+
+img.dog3 {
+	float: right;
+	width: 218px;
+	margin-right: -280px;
+
+}

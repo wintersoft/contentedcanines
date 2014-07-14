@@ -1,9 +1,16 @@
 /* @override 
 	http://localhost/~john/contented-canines/css/main.css */
 
+body {
+	background-color: #d5d5d5;
+}
+
 #header {
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
 	height: 282px;
-	background: url(../images/heading.png) no-repeat #fcfcfc;
+	background: url(../images/heading.png) no-repeat #F2F8FF;
 }
 
 #walk-img {
@@ -12,9 +19,14 @@
 }
 
 #wrapper {
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+
 	background-color: #fcfcfc;
-    margin: auto;
+    margin: 30px auto auto;
     width: 970px;
+
 }
 
 #navigation {
@@ -22,11 +34,11 @@
 	margin-top: -55px;
 	margin-right: auto;
 	margin-left: auto;
-	border-top: 1px solid #c2c2c2;
-	padding-top: 17px;
+
+	padding-top: 19px;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	border-style: solid;
-	background-color: #efefef;
+	background-color: #F2F8FF;
 	padding-bottom: 1px;
 }
 

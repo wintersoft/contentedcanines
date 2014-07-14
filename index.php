@@ -1,28 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Contented Canines - Christchurch Dog Walking &amp; Pet Care</title>
-<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-<link rel="stylesheet" type="text/css" href="css/main.css" />
-<link rel="stylesheet" type="text/css" href="css/base.css" />
-</head>
-<body>
-    <div id="wrapper">
-    	<div id="header">
-    	</div>
-    
-    	<div id="navigation">
-	    	<ul>
-	    		<li class=active><a href="index.php">Home</a></li>
-	    		<li><a href="about.php">About</a></li>
-	    		<li><a href="pricing.php">Pricing</a></li>
-	    		<li><a href="contact.php">Contact</a></li>
-	    	</ul>
-    	</div>
-    	
+<?php $page = "Home" ?>
+<?php $page_title = "Contented Canines - Christchurch Dog Walking &amp; Pet Care" ?>
+<?php include("header.php") ?>
+
     	<div id="walk-img"></div>
     	
-        <div id="content">
+        <div id="content" class="home">
         	<h2>Contented Canines</h2>
         	
         	<img class="dog1" src="images/dog1.png">
@@ -34,9 +16,8 @@
 			
 			<p>Dog walks or runs will be individually tailored to suit each dog's particular requirements as to the level of activity and exercise you would like for them.   Basic training and playtime can be incorporated into the time spent with your dog if desired.</p>
 			</p>
+			
+			<a href="pricing.php">See pricing page for details</a>
        </div>
        
-       <div id="footer">Copyright &copy; 2014 - Contented Canines. All Rights Reserved.</div>
-    </div>
-</body>
-</html>
+<?php include("footer.php") ?>

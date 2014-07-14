@@ -45,19 +45,18 @@ body {
 #navigation ul {
 	list-style: none;
 	text-align: center;
-	margin-bottom: 13px;
+	margin-bottom: 5px;
 }
 
 #navigation ul li {
-	display: inline;
+	display: inline-block;
+	width: 80px;
 	padding-right: 20px;
 	padding-bottom: 0px;
 	padding-left: 20px;
 	font-size: 20px;
-	border-right-style: solid;
-	border-right-width: 1px;
+	border-right: 1px solid #949494;
 }
-
 
 #navigation ul li a {
 	text-decoration: none;
@@ -67,6 +66,11 @@ body {
 	border-right-style: none;
 }
 
+#navigation ul li.active a {
+	color: #303130;
+	font-weight: bold;
+}
+
 #content {
     width: 580px;
 	margin-left: 40px;
@@ -74,8 +78,12 @@ body {
 	line-height: 1.5em;
 	background-color: #fcfcfc;
 	padding-bottom: 50px;
-	margin-top: 20px;
+	margin-top: 45px;
 
+}
+
+#content.home {
+	margin-top: 20px;
 }
 
 #footer {
@@ -90,6 +98,12 @@ body {
 h2 {
 	font-size: 25px !important;
 	padding-bottom: 10px !important;
+}
+
+h3 {
+	font-size: 18px !important;
+	padding-bottom: 10px !important;
+	text-decoration: underline;
 }
 
 img.dog1 {

@@ -22,11 +22,10 @@ body {
 	-webkit-border-radius: 15px;
 	-moz-border-radius: 15px;
 	border-radius: 15px;
-
 	background-color: #fcfcfc;
-    margin: 30px auto auto;
+    margin: 30px auto;
     width: 970px;
-
+    
 }
 
 #navigation {

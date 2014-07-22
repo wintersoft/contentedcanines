@@ -82,6 +82,7 @@ body {
 
 #content.home {
 	margin-top: 20px;
+	height: 650px;
 }
 
 #footer {
@@ -91,6 +92,7 @@ body {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	font-size: 12px;
+	clear: both;
 }
 
 h2 {
@@ -108,19 +110,34 @@ img.dog1 {
 	float: right;
 	width: 218px;
 	margin-right: -280px;
-	margin-top: 200px;
+	margin-top: -30px;
 }
 
 img.dog2 {
 	float: right;
 	width: 218px;
 	margin-right: -280px;
-	margin-top: -20px;
+	margin-top: 250px;
 }
 
 img.dog3 {
+	float: left;
+	width: 218px;
+	margin-left: 0px;
+	margin-top: 30px;
+	clear: both;
+}
+
+img.dog4 {
+	float: left;
+	width: 218px;
+	margin-left: 320px;
+	margin-top: -145px;
+}
+
+img.dog5 {
 	float: right;
 	width: 218px;
 	margin-right: -280px;
-
+	margin-top: 270px;
 }

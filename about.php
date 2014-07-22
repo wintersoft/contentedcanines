@@ -6,6 +6,13 @@
         	<h2>About</h2>
         	
         	
+        	<img class="dog6" src="images/dog6.png">
+        	<img class="dog7" src="images/dog7.png">
+        	
+        	<img class="dog8" src="images/dog8.png">
+        	<img class="dog9" src="images/dog9.png">
+        	<img class="dog10" src="images/dog10.png">
+        	
 			<p>I am an experienced, mature long time dog, horse and pet owner.</p>
 			
 			<p>With an employment background in Veterinary Nursing, Administration and Teaching, you can be sure that my interaction with you and your dog will be professional, reliable and friendly and that your dogs, pets and property will be safely looked after with the highest standard of care.</p>

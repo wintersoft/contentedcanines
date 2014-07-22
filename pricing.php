@@ -24,7 +24,7 @@
 			
 			<br><br>
 			
-			<p>'Regular Walk' Discount for three or more walks per walk</p>
+			<p>'Regular Walk' Discount for three or more walks per week</p>
 			
 			<table class="condensed">
 				<tr>
@@ -46,11 +46,11 @@
 			
 			<br><br>
 			
-			<p>Basic training and play can be incorporated into these times if desired, arranged  separately, or added on for a small additional charge.  Running for energetic working breeds if required.</p>
+			<p>Basic training and play can be incorporated, arranged separately, or added on for a small additional charge.  Running for energetic working breeds if required.</p>
 			
-			<br>
+			<br><br>
 			
-			<h3>Daily home visit or visits for pet care and feeding, checking property</h3>
+			<h3>Daily home visits for pet care and feeding, checking property</h3>
 			
 			<table class="wider">
 				<tr>

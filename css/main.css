@@ -149,7 +149,7 @@ img.dog6 {
 	float: right;
 	width: 192px;
 	height: 165px;
-	margin-right: -280px;
+	margin-right: -260px;
 	margin-top: -30px;
 }
 
@@ -157,7 +157,7 @@ img.dog7 {
 	float: right;
 	width: 166px;
 	height: 218px;
-	margin-right: -270px;
+	margin-right: -250px;
 	margin-top: 190px;
 }
 
@@ -174,15 +174,15 @@ img.dog9 {
 	float: left;
 	width: 215px;
 	height: 139px;
-	margin-left: 310px;
+	margin-left: 312px;
 	margin-top: -139px;
 	margin-bottom: 50px;
 }
 
 img.dog10 {
 	float: right;
-	width: 215px;
+	width: 200px;
 	height: 139px;
-	margin-right: -280px;
+	margin-right: -268px;
 	margin-top: -139px;
 }

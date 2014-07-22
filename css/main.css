@@ -124,7 +124,7 @@ img.dog3 {
 	float: left;
 	width: 218px;
 	margin-left: 0px;
-	margin-top: 30px;
+	margin-top: 57px;
 	clear: both;
 }
 
@@ -136,8 +136,9 @@ img.dog4 {
 }
 
 img.dog5 {
+hi
 	float: right;
 	width: 218px;
 	margin-right: -280px;
-	margin-top: 270px;
+	margin-top: -145px;
 }

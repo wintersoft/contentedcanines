@@ -5,10 +5,8 @@
         <div id="content">
         	<h2>About</h2>
         	
-        	
         	<img class="dog6" src="images/dog6.png">
         	<img class="dog7" src="images/dog7.png">
-        	
         	<img class="dog8" src="images/dog8.png">
         	<img class="dog9" src="images/dog9.png">
         	<img class="dog10" src="images/dog10.png">

@@ -7,6 +7,9 @@
         	
 			<h3>Dog Walking</h3>
 			
+			<img class="dog11" src="images/dog11.png">
+			<img class="dog12" src="images/dog12.png">
+			
 			<table class="condensed">
 				<tr>
 					<td>Half hour</td>

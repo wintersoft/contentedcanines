@@ -9,7 +9,6 @@
         	
         	<img class="dog1" src="images/dog1.png">
         	<img class="dog2" src="images/dog2.png">
-        	
         	<img class="dog3" src="images/dog3.png">
         	<img class="dog4" src="images/dog4.png">
         	<img class="dog5" src="images/dog5.png">

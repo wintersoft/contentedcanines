@@ -202,3 +202,11 @@ img.dog12 {
 	margin-right: -280px;
 	margin-top: 530px;
 }
+
+img.dog13 {
+	float: right;
+	width: 185px;
+	height: 189px;
+	margin-right: -280px;
+	margin-top: -20px;
+}

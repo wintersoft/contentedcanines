@@ -2,13 +2,11 @@
 	http://localhost/~john/contented-canines/css/main.css */
 
 body {
-	background-color: #d5d5d5;
+	background-color: #e6e6e6;
 }
 
 #header {
-	-webkit-border-radius: 15px;
-	-moz-border-radius: 15px;
-	border-radius: 15px;
+
 	height: 282px;
 	background: url(../images/heading.png) no-repeat #F2F8FF;
 }
@@ -36,7 +34,7 @@ body {
 	padding-top: 19px;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	border-style: solid;
-	background-color: #F2F8FF;
+	background-color: #d4e6f9;
 	padding-bottom: 1px;
 }
 

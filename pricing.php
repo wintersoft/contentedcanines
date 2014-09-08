@@ -9,6 +9,7 @@
 			
 			<img class="dog11" src="images/dog11.png">
 			<img class="dog12" src="images/dog12.png">
+        	<img class="dog1" src="images/dog1.png">
 			
 			<table class="condensed">
 				<tr>
@@ -49,7 +50,7 @@
 			
 			<br><br>
 			
-			<p>Basic training and play can be incorporated, arranged separately, or added on for a small additional charge.  Running for energetic working breeds if required.</p>
+			<p>Training and play can be incorporated, arranged separately, or added on for a small additional charge.  Running for energetic working breeds if required.</p>
 			
 			<br><br>
 			
@@ -68,9 +69,12 @@
 			
 			<h3>Puppy Package</h3>
 			
-			<p>Daily visits can be arranged for puppy feeding/cleaning/exercise for puppies up to 6 months old, starting at only $10 per visit depending on requirements.</p>
+			<p>Daily visits can be arranged for puppy feeding/cleaning/exercise for puppies up to 6 months old, starting at only $12 per visit depending on requirements.</p>
 			
 			<br>
+			
+			<p>All prices include travel.</p>
+			
 			
 			<a href="contact.php">To make an appointment click here</a>
        </div>

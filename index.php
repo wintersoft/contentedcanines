@@ -12,7 +12,7 @@
         	
 			<p>In today's busy urban environment it is difficult for many dog owners to achieve the level of exercise, attention and training required for our dogs to be truly fit, healthy and contented.</p>
 			
-			<p>Whether you need a day or two off each week, would like regular long term walks, or just need short term help with exercise, play, training and care during unforeseen circumstances when you are unable to give your dog the attention he or she needs, Contented Canines is the perfect solution. Walks will be individually matched to your dog's requirements.</p>
+			<p>Whether you need a day or two off each week, would like regular long term walks, or just need short term help with exercise, play, basic training and care during unforeseen circumstances when you are unable to give your dog the attention he or she needs, Contented Canines is the perfect solution. Walks will be individually matched to your dog's requirements.</p>
 			</p>
 			<br>
 			<h2>Also Available</h2>
